@@ -213,4 +213,4 @@ QCAD is available as a complete free version with all features and updates inclu
 Unlock your design potential today! Download QCAD free and start creating stunning technical drawings with ease.
 
 ---
-**Last updated:** 2026-10-24 16:18:29 UTC
+**Last updated:** 2026-10-24 19:06:28 UTC
